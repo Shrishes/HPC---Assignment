@@ -1,0 +1,5 @@
+Found password: GR2678
+Found password: AV7878
+Found password: FT8189
+Found password: SC6399
+Time elapsed was 75757236ns or 0.075757236s
